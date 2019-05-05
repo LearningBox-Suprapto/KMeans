@@ -2,14 +2,24 @@
 
 
 .. title: Belajar KMeans Menggunakan Python
+
 .. slug: 
+
 .. date: 2019-05-5 
+
 .. tags: KMeans, Python, Clustering, sklearn
+
 .. category: Data Aanalysis
+
 .. link:
+
 .. description: Klasterisasi data menggunakan Python
 .. type: text
+
+
+
 .. figure:: https://www.kcet.org/sites/kl/files/atoms/article_atoms/www.kcet.org/living/homegarden/firewood-01.jpg
+   
    :target: https://www.kcet.org/sites/kl/files/atoms/article_atoms/www.kcet.org/living/homegarden/firewood-01.jpg
    
 Photo by Horia Varlan/Flickr/Creative Commons License
